@@ -34,14 +34,14 @@ This is a gamified quiz app created using Flutter that offers an interesting qui
    ```
 
 ## Screenshots
-![Screenshot 2025-01-20 190907](https://github.com/user-attachments/assets/4bd2ebdf-5367-4c92-a43d-d519b5c6202d)
-![Screenshot 2025-01-20 190923](https://github.com/user-attachments/assets/79a5e8bd-0138-4442-b443-5f43344d95a0)
-![Screenshot 2025-01-20 190932](https://github.com/user-attachments/assets/9a9b1a1e-5d61-4c09-8295-3459ee45ac92)
-![Screenshot 2025-01-20 190359](https://github.com/user-attachments/assets/838fb58b-08df-495f-b1ff-a96f7a419922)
+![Screenshot 2025-01-20 190359](https://github.com/user-attachments/assets/3309c79f-0e01-4233-b244-987e6a576eaf)
+![Screenshot 2025-01-20 190907](https://github.com/user-attachments/assets/edd2aecb-7175-464d-a8e6-fb108ddc3cfb)
+![Screenshot 2025-01-20 190923](https://github.com/user-attachments/assets/f43bef87-e582-49cc-a79f-df079c1ae147)
+![Screenshot 2025-01-20 190932](https://github.com/user-attachments/assets/94d9bb2a-6292-4d64-8cad-24be6ac64912)
+
 
 ## Demo Video
-Add a link or embed the video demo here.
-
+[Click here to watch the Demo Video](https://vimeo.com/1048573753/ca1a33ad12?ts=0&share=copy)
 ---
 
 Feel free to contribute or suggest improvements!
