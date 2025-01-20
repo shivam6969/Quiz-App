@@ -1,16 +1,45 @@
-# quizapp
+# Flutter Quiz App
 
-A new Flutter project.
+This is a gamified quiz app created using Flutter that offers an interesting quiz experience complete with animations, score tracking, and visual feedback.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features - **Gamified Quiz Flow**: Animations and progress tracking allow for smooth transitions between questions.
+- **Visual Feedback**: Color-coded highlights indicate correct and wrong answers.
+- **Score Tracking**: Live score updates, with a celebration screen at the finish.
+- **Themed UI**: A consistent color scheme and responsive design.
+- **Confetti Animation**: Correct answers trigger a confetti burst.
 
-A few resources to get you started if this is your first Flutter project:
+## Technology Used
+- **Flutter**: A UI framework.
+- Dart: Programming language.
+- **Custom Widgets**: Modular, reusable components for improved readability.
+- **Tween Animations** are used for trophy and confetti effects.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd quiz-app
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+Add screenshots here to showcase your app.
+
+## Demo Video
+Add a link or embed the video demo here.
+
+---
+
+Feel free to contribute or suggest improvements!
+
