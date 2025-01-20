@@ -22,7 +22,7 @@ This is a gamified quiz app created using Flutter that offers an interesting qui
    ```
 2. Navigate to the project directory:
    ```bash
-   cd quiz-app
+   cd Quiz-App
    ```
 3. Install dependencies:
    ```bash
